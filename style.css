@@ -1,0 +1,43 @@
+*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+		html,body{
+			height: 100%;
+		}
+		.container{
+			width: 100%;
+			height: 100%;
+			background-color: lightblue;
+			text-align: center;
+		}
+		.problema{
+			margin-top: 30px;
+			width: 70%;
+			text-align: center;
+			display: inline-block;
+			font-size: 20px;
+			border: 1px solid black;
+			border-radius: 10px;
+			
+		}
+		.caixa-input{
+			padding-top: 30px;
+			font-size: 18px;
+		}
+		input{
+			font-size: 13px;
+			width: 75px;
+			height: 25px;
+			text-align: center;
+
+
+
+		}
+		
+		}
+		.caixa-input p {
+			font-size: 17px;
+			padding-top: 10px;
+		}
